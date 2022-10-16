@@ -5,3 +5,4 @@ This system Provide CRUD operations for both Donor and Donation classes
 The data of classes is stored in a MySQL connection based database. The code also uses MySQL workbench to perform its operations.
 
 Do install it and create an "blood-donation" named schema
+or you can simply change the code present in Donation-Repository.py from line 11-17 to your liking
